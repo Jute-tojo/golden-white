@@ -1,0 +1,12 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "@typescript-eslint/no-var-requires": 0,
+        "trailing-comma": [ false ]
+    },
+    "rulesDirectory": []
+}
